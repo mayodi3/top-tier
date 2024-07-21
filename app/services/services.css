@@ -1,0 +1,18 @@
+#Services {
+  margin-right: auto;
+  margin-bottom: 150px;
+}
+
+@media (min-width: 768px) {
+  #Services {
+    margin-left: 10%;
+    margin-bottom: 200px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #Services {
+    margin: auto;
+    margin-bottom: 200px;
+  }
+}

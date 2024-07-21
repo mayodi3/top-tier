@@ -1,0 +1,5 @@
+.bg-gradient {
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  background-size: 100% 300px;
+  background-position: 0% 100%;
+}
